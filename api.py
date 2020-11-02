@@ -1,3 +1,4 @@
+#https://www.postman.com/ — testing api
 import requests
 
 URL_AUTH = 'https://developers.lingvolive.com/api/v1.1/authenticate'
